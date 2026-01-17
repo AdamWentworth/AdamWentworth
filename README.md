@@ -17,6 +17,5 @@
 - 🚀 **Pokémon GO Nexus** — Independently built a large-scale full-stack web app (1k+ commits) with React/NGINX frontends and Node.js, Go, Kafka backends using MongoDB, MySQL, and PostGIS.
 - 🛠️ **Pokémon Autochess** — Custom C++20 game engine with SDL2/OpenGL, full 3D pipeline, glTF loading, animation, and Lua-driven gameplay.
 - ✨ **Jarvin** — Fully local offline voice assistant using Python 3.11, FastAPI, asyncio, Whisper, and llama.cpp.
-- 📊 **WinRift** — Full-stack analytics app for live League of Legends matchups with historical win-rate visualization.
 
 _Check more projects in my repositories._
